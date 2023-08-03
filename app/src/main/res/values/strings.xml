@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KrushilPizzaApp</string>
+    <string-array name="paymentMethod">
+        <item>Select</item>
+        <item>Online</item>
+        <item>COD</item>
+        <item>Card</item>
+        <item>Net Banking</item>
+    </string-array>
+</resources>
